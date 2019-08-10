@@ -1,0 +1,7 @@
+﻿owner=551342300878471169
+prefix= !plsy 
+game= !play
+stayinchannel=true
+songinstatus=false
+token=bM9ee9WLBPu1vO12nV1Ti3RxPzYXOM-R
+
